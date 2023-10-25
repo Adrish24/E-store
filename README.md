@@ -9,5 +9,5 @@ pages: add to cart, a homepage, and a single product view page.
 
 page hosted on vercel.
 
-link: https://my-store-vert.vercel.app/
+link: https://e-store-wine.vercel.app/
 
